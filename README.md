@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently interested in Machine Learning and Computer Vision.
 - ⚡ Fun fact: I did my BSc in South Korea at KAIST.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrpositron&label=Profile%20views&color=0e75b6&style=flat" alt="mrpositron" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
