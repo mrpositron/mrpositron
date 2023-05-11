@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Nauryz</h1>
+<h1 align="center">Hi 👋, I'm Nauryzbay</h1>
 <h3 align="center">Machine Learning Enthusiast from Kazakhstan</h3>
 
 - 🔭 I’m currently pursuing MSc degree in Data Science at ETH Zürich.
