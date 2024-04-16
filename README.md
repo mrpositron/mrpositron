@@ -10,9 +10,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nauryzbay</h1>
 <h3 align="center">Machine Learning Enthusiast from Kazakhstan</h3>
 
-- 🔭 I’m currently pursuing MSc degree in Data Science at ETH Zürich.
+- 🔭 I’m currently pursuing an MSc degree in Data Science at ETH Zürich.
 - 🌱 I’m currently interested in Machine Learning and Computer Vision.
 - ⚡ Fun fact: I did my BSc in South Korea at KAIST.
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mrpositron/sphere_fitting,mrpositron/paper2tex,mrpositron/quantized-convolution,mrpositron/distillation&type=Date)](https://star-history.com/#mrpositron/sphere_fitting&mrpositron/paper2tex&mrpositron/quantized-convolution&mrpositron/distillation&Date)
 
 
 <h3 align="left">Connect with me:</h3>
