@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/nauryzbaay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nauryzbaay" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@nauryz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nauryz" height="30" width="40" /></a>
+<a href="https://www.goodreads.com/nauryzbay" target="blank"><img align="center" src="https://d.gr-assets.com/misc/1454549160-1454549160_goodreads_misc.png" alt="nauryzbay" height="30" width="30" /></a>
+
+
 </p>
 
 <h3 align="left">
