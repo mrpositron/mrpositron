@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I did my BSc in South Korea at KAIST.
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mrpositron/sphere_fitting,mrpositron/paper2tex,mrpositron/quantized-convolution,mrpositron/distillation&type=Date)](https://star-history.com/#mrpositron/sphere_fitting&mrpositron/paper2tex&mrpositron/quantized-convolution&mrpositron/distillation&Date)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
